@@ -33,3 +33,12 @@ module.exports = {
 const utils = require('./utils');
 console.log(utils.greet('World'));
 ```
+### **ES module (mjs)**
+```js
+// utils.mjs
+export const greet = (name) => `Hello, ${name}!`;
+
+// index.mjs
+import { greet } from './utils.mjs';
+console.log(greet('World'));
+```
