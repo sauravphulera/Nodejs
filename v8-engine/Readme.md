@@ -96,3 +96,4 @@ After lexical analysis, the next step in parsing is **syntax analysis**. This st
 ### Additional Resources
 - **V8 Engine Bytecode Example**: [GitHub - V8 Bytecode](https://github.com/v8/v8/blob/master/test/cctest/interpreter/bytecode_exp)
 - **V8 Documentation**: [V8.dev](https://v8.dev/)
+- Full Documentation: [Full v8 doc](https://do6gp1uxl3luu.cloudfront.net/namaste-node/notes/Episode-08.pdf)
